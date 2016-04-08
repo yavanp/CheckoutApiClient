@@ -1,0 +1,8 @@
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\bin\Debug\Checkout.dll.config
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\bin\Debug\Checkout.dll
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\bin\Debug\Checkout.pdb
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\obj\Debug\Checkout.dll
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\obj\Debug\Checkout.pdb
+C:\Users\Dee15\Downloads\checkout-net-library-master\checkout-net-library-master\Checkout.ApiClient.Net45\obj\Debug\Checkout.ApiClient.Net45.csprojResolveAssemblyReference.cache
